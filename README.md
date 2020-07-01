@@ -2,15 +2,16 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
+    <link rel="stylesheet" href="css/stule.css">
    </head>
 <body>
     <div align="center">
         <ul id="navbar">
-            <a href="сайт.html">Главная</a>
+            <a href="https://github.com/Ru5l1n/Main">Главная</a>
             <a href="путь.html">Твой путь</a>
             <a href="ивентс.html">События</a>
             <a href="викньюс.html">Лор недели</a>
-            <a href="визитка.html">Визитка нашего сайта</a>
+            <a href="https://github.com/Ru5l1n/visit">Визитка нашего сайта</a>
         </ul>
     </div>
     <div align="center"><h1> К НАШЕМУ СООБЩЕСТВУ D&D: </h1></div>
